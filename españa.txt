@@ -1,17 +1,38 @@
 Acerca de España
 
-El Museo del Prado está en Madrid donde encontrarás obras de pintors famosos:
-Velázquez, el Greco y Goya.  
-El Greco fue un pintor famoso, sus pinturas incluyen El Expolio están en la
-Catedral de Toledo. Toledo es una ciudad española que está cerca de Madrid.
-La casa del Greco está en Toledo tambien. 
+El Museo del Prado está en Madrid 
+	0. donde encontrarás 
+	0. puedes encontrar
+	0. se encuentran
+obras de pintores famosos:(como) Velázquez, el Greco y Goya.  
+El Greco fue un pintor famoso, 
+	1. y sus pinturas, que incluyen El Expolio, están 
+	1. entre sus pinturas se incluye El Explolio, que están 
+en la Catedral de Toledo. Toledo es una ciudad española que está cerca de Madrid.
+La casa del Greco está en Toledo también. 
 
-Andalucia es una regíon en la parte sur de España. Los ciudades en la regíon
-son Córdoba, Sevilla y Granada. La arquitectura fue influenciada por árabe. El
-plato típico del Andalucia es el gazpacho. 
+Andalucia es una región -en- +de+ la parte sur de España. --Los-- 
+	2. +Algunas de las+ 
+	2. +Algunas de sus+
+ciudades en la regíon son Córdoba, Sevilla y Granada +entre otras (son 8)+. 
+	3. La arquitectura fue influenciada por árabe. 
+	3. La arquitectura tiene influencias árabes.
+	3. La arquitectura fue influenciada por los árabes.
+	3. En las que la arquitectura ha sido influenciada por los árabes.
+El plato típico del Andalucia es el gazpacho. 
 
 Asturias está en el noroeste de España. Los montañas y valles son muy verdes
-porque llueve mucho en esta regíon. La sidra es una bebida única de Asturias, es
-una clase de vino muy popular en España.  
-El País Vasco está en el norte de España. Su paisaje es verde como Asturias.
-Las personas hablan la lengua vasco pero es completamente diferente. 
+porque llueve mucho en esta +la+ región. La sidra es una bebida --única-- 
+típica o tradicional 
+de Asturias, es una clase de vino muy 
+popular o conocido 
+en España.  
+El País Vasco está en el norte de España. Su paisaje es verde como +el de+ Asturias pero
+	4. las personas hablan la lengua vasco que es completamente diferente. 
+	4. la gente habla la lengua vasca que es completamente diferente al español.
+	4. Su gente habla la lengua vasca, que es completamente diferente al
+	   castellano
+
+
+borrar -palabra-
+añadir +palabra+
